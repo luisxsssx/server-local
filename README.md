@@ -2,8 +2,6 @@
 # Server Local
 ## Development settings
 
-****
-
 ## Run Locally
 
 
