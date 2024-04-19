@@ -32,7 +32,7 @@ Install dependencies in client-files
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 ## On the backend
